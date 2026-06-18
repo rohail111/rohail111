@@ -57,112 +57,76 @@ Currently leading development at **Nooberly** while shipping products across hea
 
 ### 🛠️ Tech Stack
 
+<p align="center"><b>Frontend & Mobile</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,nestjs,firebase,aws,gcp,postgres,mysql,tailwind,expo,redux,dotnet,bootstrap&perline=8" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC"/>
+  <img src="https://img.shields.io/badge/Zustand-0D1117?style=for-the-badge&logo=react&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/React_Query-0D1117?style=for-the-badge&logo=reactquery&logoColor=FF4154"/>
 </p>
 
-<details open>
-<summary><b>Frontend & Mobile</b></summary>
-<br/>
+<p align="center"><b>Backend & Architecture</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
+  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
+  <img src="https://img.shields.io/badge/Cloud_Functions-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/Microservices-0D1117?style=for-the-badge&logo=serverless&logoColor=FD5750"/>
+</p>
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=zustand&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+<p align="center"><b>Databases & ORM</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/Firestore-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/Drizzle_ORM-0D1117?style=for-the-badge&logo=drizzle&logoColor=C5F74F"/>
+  <img src="https://img.shields.io/badge/Sequelize-0D1117?style=for-the-badge&logo=sequelize&logoColor=52B0E7"/>
+  <img src="https://img.shields.io/badge/Typesense-0D1117?style=for-the-badge&logo=typesense&logoColor=E0457B"/>
+</p>
 
-</details>
+<p align="center"><b>Cloud & Firebase</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/Firebase_Auth-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/FCM-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/Firebase_Hosting-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/Firebase_Storage-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/Dynamic_Links-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
+  <img src="https://img.shields.io/badge/AWS_S3-0D1117?style=for-the-badge&logo=amazons3&logoColor=569A31"/>
+  <img src="https://img.shields.io/badge/AWS_CloudFront-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/AWS_EventBridge-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+</p>
 
-<details open>
-<summary><b>Backend & Architecture</b></summary>
-<br/>
+<p align="center"><b>Auth, Payments & Monetization</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Clerk-0D1117?style=for-the-badge&logo=clerk&logoColor=6C47FF"/>
+  <img src="https://img.shields.io/badge/Stripe-0D1117?style=for-the-badge&logo=stripe&logoColor=635BFF"/>
+  <img src="https://img.shields.io/badge/Wise-0D1117?style=for-the-badge&logo=wise&logoColor=9FE870"/>
+  <img src="https://img.shields.io/badge/RevenueCat-0D1117?style=for-the-badge&logo=revenuecat&logoColor=F2545B"/>
+</p>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud_Functions-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microservices-36BCF7?style=flat-square&logo=serverless&logoColor=white"/>
+<p align="center"><b>Communications & Real-time</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Twilio_Conversations-0D1117?style=for-the-badge&logo=twilio&logoColor=F22F46"/>
+  <img src="https://img.shields.io/badge/Twilio_WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
+  <img src="https://img.shields.io/badge/SendGrid-0D1117?style=for-the-badge&logo=sendgrid&logoColor=51A9E3"/>
+  <img src="https://img.shields.io/badge/Ably-0D1117?style=for-the-badge&logo=ably&logoColor=FF5416"/>
+</p>
 
-</details>
-
-<details open>
-<summary><b>Databases & ORM</b></summary>
-<br/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Drizzle_ORM-000000?style=flat-square&logo=drizzle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
-<img src="https://img.shields.io/badge/Typesense-103F91?style=flat-square&logo=typesense&logoColor=white"/>
-
-</details>
-
-<details open>
-<summary><b>Cloud & Firebase</b></summary>
-<br/>
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Firebase_Storage-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Dynamic_Links-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_CloudFront-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_EventBridge-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-</details>
-
-<details open>
-<summary><b>Auth, Payments & Monetization</b></summary>
-<br/>
-
-<img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wise-9FE870?style=flat-square&logo=wise&logoColor=black"/>
-<img src="https://img.shields.io/badge/RevenueCat-F2545B?style=flat-square&logo=revenuecat&logoColor=white"/>
-
-</details>
-
-<details open>
-<summary><b>Communications & Real-time</b></summary>
-<br/>
-
-<img src="https://img.shields.io/badge/Twilio_Conversations-F22F46?style=flat-square&logo=twilio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Twilio_WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
-<img src="https://img.shields.io/badge/SendGrid-51A9E3?style=flat-square&logo=sendgrid&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ably-FF5416?style=flat-square&logo=ably&logoColor=white"/>
-
-</details>
-
-<details open>
-<summary><b>AI, Media & Observability</b></summary>
-<br/>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/MUX-000000?style=flat-square&logo=mux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"/>
-
-</details>
-
-<details>
-<summary><b>Next.js Portals & Platforms</b></summary>
-<br/>
-
-<img src="https://img.shields.io/badge/Admin_Portal-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Marketing_Website-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Restaurant_Portal-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-
-</details>
+<p align="center"><b>AI, Media & Observability</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MUX-0D1117?style=for-the-badge&logo=mux&logoColor=FB2491"/>
+  <img src="https://img.shields.io/badge/Sentry-0D1117?style=for-the-badge&logo=sentry&logoColor=362D59"/>
+</p>
 
 ---
 
