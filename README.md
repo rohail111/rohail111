@@ -98,8 +98,8 @@ Currently leading development at **Nooberly** while shipping products across hea
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **Dishcovr** | Visual-first food discovery app with AI-powered dish recommendations, social feeds, and instant restaurant booking | React Native, Firebase, GCP |
-| **Souligent** | Values-based self-reflection app for daily inner audits across self, relationships, and community | React Native, Firebase |
-| **NafsCheck** | Spiritual self-audit platform for tracking growth across faith, character, and daily Islamic habits | React Native, Firebase |
+| **Souligent** | Values-based self-reflection app for daily inner audits — built for [**Sirat Solutions**](https://souligent.com/) | React Native, Firebase |
+| **NafsCheck** | Spiritual self-audit platform for tracking growth across faith, character, and daily habits — built for **Sirat Solutions** | React Native, Firebase |
 | **CiviqLynx** | Government relations & stakeholder intelligence platform for legislation tracking and advocacy workflows | React, Node.js, GCP |
 | **Nooberly** | Video-centric social app for neighborly connections — create requests & offers within a 33-mile radius | React Native, Firebase |
 | **eMOTy** | Addiction recovery platform with self-care, assessment & support network modules | React, Firebase, Cloud Functions |
@@ -113,6 +113,7 @@ Currently leading development at **Nooberly** while shipping products across hea
 | Role | Company | Period | Highlights |
 |:-----|:--------|:-------|:-----------|
 | **Full Stack Engineer** · Serverless · GCP | [**ProductBox**](https://www.linkedin.com/company/productbox) | Sep 2023 – Present | Leading **Nooberly** — building scalable serverless backends with Cloud Functions, Firebase (Auth, Firestore, Crashlytics, Storage, Messaging) & GCP |
+| **Full Stack Engineer** | **Sirat Solutions** | Client Project | Built **Souligent** & **NafsCheck** — mobile apps for values-based self-reflection and spiritual self-audit |
 | **Associate React / React Native Engineer** | [**ProductBox**](https://www.linkedin.com/company/productbox) | Nov 2021 – Sep 2023 | Shipped HIPAA-compliant digital health products — secure, scalable web & mobile apps for global clients |
 | **Full Stack Engineer** | [**Supermeal**](https://www.linkedin.com/company/supermeal) | Sep 2021 – Nov 2021 | Built features for multi-region food delivery platform serving UK, Pakistan & UAE markets |
 | **Junior Software Engineer** | [**WaqarTech**](https://www.linkedin.com/company/waqartech-limited) | Mar 2018 – Sep 2021 | React Native & Ionic mobile apps, .NET APIs — delivered **Supermeal** & **SuperCenter** restaurant platform |
@@ -127,7 +128,7 @@ Currently leading development at **Nooberly** while shipping products across hea
 ```
 📊 Total Experience    →  8+ years in software engineering
 🏢 Current Focus       →  Serverless architecture, React, React Native & GCP
-🌍 Industries          →  Health-tech, Food-tech, Social & Civic platforms
+🌍 Industries          →  Health-tech, Wellness, Food-tech, Social & Civic platforms
 🤝 Work Style          →  Agile, cross-functional teams, end-to-end delivery
 ```
 
