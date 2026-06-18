@@ -27,13 +27,13 @@ const rohail111 = {
   location: "Peshawar, Pakistan",
   education: "B.S. Software Engineering — IMSciences (CGPA 3.54)",
   experience: "8+ years building web & mobile products",
-  focus: ["React", "Next.js", "React Native", "Serverless", "GCP"],
+  focus: ["React", "Next.js", "React Native", "Node.js", "Firebase", "AWS", "GCP"],
   currentlyBuilding: "Nooberly — video-centric social platform",
   funFact: "When I'm not coding, you'll find me on the football pitch ⚽",
 };
 ```
 
-I'm a **Tech Lead** and **Full Stack Engineer** specializing in high-performance, scalable applications with **React.js**, **Next.js**, and **React Native**. I architect **serverless backends** using Cloud Functions, Firebase, and **GCP** — delivering HIPAA-compliant health tech, social apps, and enterprise solutions.
+I'm a **Tech Lead** and **Full Stack Engineer** building high-performance web & mobile products with **React**, **Next.js**, **React Native**, and **Expo**. I architect **serverless** and **microservices** backends on **Firebase**, **GCP**, and **AWS** — integrating payments, real-time messaging, AI, and HIPAA-compliant health tech at scale.
 
 Currently leading development at **Nooberly** while shipping products across healthcare, food-tech, and automotive industries.
 
@@ -49,7 +49,7 @@ Currently leading development at **Nooberly** while shipping products across hea
 | Professional experience | Production-ready products | HIPAA-compliant solutions |
 | | | |
 | 📱 **Mobile & Web** | ☁️ **Serverless First** | 🌍 **Global Products** |
-| React Native & Next.js | Firebase, GCP, Cloud Functions | UK, UAE, Pakistan & beyond |
+| React Native & Next.js | Firebase, AWS, GCP & Cloud Functions | UK, UAE, Pakistan & beyond |
 
 </div>
 
@@ -58,21 +58,111 @@ Currently leading development at **Nooberly** while shipping products across hea
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,firebase,gcp,html,css,tailwind,git,github,vscode,figma&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,nestjs,firebase,aws,gcp,postgres,mysql,tailwind,expo,redux,dotnet,bootstrap&perline=8" alt="Tech Stack" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
+<details open>
+<summary><b>Frontend & Mobile</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=zustand&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+
+</details>
+
+<details open>
+<summary><b>Backend & Architecture</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Functions-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microservices-36BCF7?style=flat-square&logo=serverless&logoColor=white"/>
+
+</details>
+
+<details open>
+<summary><b>Databases & ORM</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Drizzle_ORM-000000?style=flat-square&logo=drizzle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typesense-103F91?style=flat-square&logo=typesense&logoColor=white"/>
+
+</details>
+
+<details open>
+<summary><b>Cloud & Firebase</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase_Storage-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Dynamic_Links-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_CloudFront-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_EventBridge-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+</details>
+
+<details open>
+<summary><b>Auth, Payments & Monetization</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wise-9FE870?style=flat-square&logo=wise&logoColor=black"/>
+<img src="https://img.shields.io/badge/RevenueCat-F2545B?style=flat-square&logo=revenuecat&logoColor=white"/>
+
+</details>
+
+<details open>
+<summary><b>Communications & Real-time</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/Twilio_Conversations-F22F46?style=flat-square&logo=twilio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twilio_WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/SendGrid-51A9E3?style=flat-square&logo=sendgrid&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ably-FF5416?style=flat-square&logo=ably&logoColor=white"/>
+
+</details>
+
+<details open>
+<summary><b>AI, Media & Observability</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/MUX-000000?style=flat-square&logo=mux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"/>
+
+</details>
+
+<details>
+<summary><b>Next.js Portals & Platforms</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/Admin_Portal-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Marketing_Website-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Restaurant_Portal-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+
+</details>
 
 ---
 
@@ -83,7 +173,8 @@ Currently leading development at **Nooberly** while shipping products across hea
 | | |
 |:---|:---|
 | 🔭 **Build** | Scalable React, Next.js & React Native applications |
-| ☁️ **Architect** | Serverless backends with Firebase, GCP & Cloud Functions |
+| ☁️ **Architect** | Serverless & microservices on Firebase, GCP, AWS (S3, CloudFront, EventBridge) |
+| 💳 **Integrate** | Stripe, Wise, RevenueCat, Clerk, Twilio & SendGrid |
 | 🏥 **Deliver** | HIPAA-compliant digital health products |
 | 👥 **Lead** | Cross-functional agile teams at ProductBox |
 | 🎨 **Craft** | Clean UI/UX with performance-first engineering |
@@ -127,7 +218,7 @@ Currently leading development at **Nooberly** while shipping products across hea
 
 ```
 📊 Total Experience    →  8+ years in software engineering
-🏢 Current Focus       →  Serverless architecture, React, React Native & GCP
+🏢 Current Focus       →  Full-stack · Serverless · Microservices · React & React Native
 🌍 Industries          →  Health-tech, Wellness, Food-tech, Social & Civic platforms
 🤝 Work Style          →  Agile, cross-functional teams, end-to-end delivery
 ```
