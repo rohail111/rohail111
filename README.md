@@ -110,12 +110,25 @@ Currently leading development at **Nooberly** while shipping products across hea
 
 ### 💼 Experience
 
+| Role | Company | Period | Highlights |
+|:-----|:--------|:-------|:-----------|
+| **Full Stack Engineer** · Serverless · GCP | [**ProductBox**](https://www.linkedin.com/company/productbox) | Sep 2023 – Present | Leading **Nooberly** — building scalable serverless backends with Cloud Functions, Firebase (Auth, Firestore, Crashlytics, Storage, Messaging) & GCP |
+| **Associate React / React Native Engineer** | [**ProductBox**](https://www.linkedin.com/company/productbox) | Nov 2021 – Sep 2023 | Shipped HIPAA-compliant digital health products — secure, scalable web & mobile apps for global clients |
+| **Full Stack Engineer** | [**Supermeal**](https://www.linkedin.com/company/supermeal) | Sep 2021 – Nov 2021 | Built features for multi-region food delivery platform serving UK, Pakistan & UAE markets |
+| **Junior Software Engineer** | [**WaqarTech**](https://www.linkedin.com/company/waqartech-limited) | Mar 2018 – Sep 2021 | React Native & Ionic mobile apps, .NET APIs — delivered **Supermeal** & **SuperCenter** restaurant platform |
+
+### 🎓 Education
+
+| Degree | Institution | Period |
+|:-------|:------------|:-------|
+| **B.S. Computer Software Engineering** · CGPA 3.54 | [**IMSciences**](https://www.linkedin.com/school/institute-of-management-sciences-im-sciences), Peshawar | 2013 – 2017 |
+| F.Sc. Science · Grade A | Islamia College, Peshawar | 2011 – 2013 |
+
 ```
-🏢 ProductBox          →  Tech Lead | Serverless & GCP
-🎓 IMSciences          →  B.S. Software Engineering (CGPA 3.54)
-🎯 Focus Areas         →  Serverless, HIPAA health tech, Mobile & Web
-🤝 Team Style          →  Agile, cross-functional, detail-oriented
-📈 Track Record        →  14+ production apps across healthcare, food-tech & social
+📊 Total Experience    →  8+ years in software engineering
+🏢 Current Focus       →  Serverless architecture, React, React Native & GCP
+🌍 Industries          →  Health-tech, Food-tech, Social & Civic platforms
+🤝 Work Style          →  Agile, cross-functional teams, end-to-end delivery
 ```
 
 ---
