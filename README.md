@@ -97,12 +97,12 @@ Currently leading development at **Nooberly** while shipping products across hea
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| **Dishcovr** | Visual-first food discovery app with AI-powered dish recommendations, social feeds, and instant restaurant booking | React Native, Firebase, GCP |
+| **Souligent** | Values-based self-reflection app for daily inner audits across self, relationships, and community | React Native, Firebase |
+| **NafsCheck** | Spiritual self-audit platform for tracking growth across faith, character, and daily Islamic habits | React Native, Firebase |
+| **CiviqLynx** | Government relations & stakeholder intelligence platform for legislation tracking and advocacy workflows | React, Node.js, GCP |
 | **Nooberly** | Video-centric social app for neighborly connections — create requests & offers within a 33-mile radius | React Native, Firebase |
 | **eMOTy** | Addiction recovery platform with self-care, assessment & support network modules | React, Firebase, Cloud Functions |
-| **SUPERMEAL** | Multi-region food ordering app (Pakistan, UK, UAE) with delivery, pickup & dine-in | React Native, Node.js |
-| **MyTrackee** | Real-time GPS car tracking with advanced monitoring & security features | React Native, Node.js |
-| **Indus Petroleum** | Admin portal for petrol pump operations — finance, inventory & daily records | React, Node.js |
-| **Family Caregiver / Yaad** | Caregiver apps for elderly monitoring & recovery support, backed by clinical research | React Native, Firebase |
 
 > 🌐 Explore all projects on my [Portfolio](https://my-portfolio-339ac.web.app/)
 
